@@ -1,2 +1,2 @@
 # cst363_mongodb
-This assignment had us make us of mongodb and create scripts to display data. We used mapreduce function to sort zip codes in this assignment.
+This assignment had used mongodb and to create scripts to display data. The mapreduce function was used to sort zip codes in this assignment.
